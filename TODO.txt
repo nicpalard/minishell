@@ -1,0 +1,1 @@
+UN caractère spécial dans une commande non entouré de guillemets entraine une erreur "erreur de syntaxe"
